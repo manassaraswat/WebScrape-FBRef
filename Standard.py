@@ -55,8 +55,3 @@ df.empty
 df2.empty
 df3.empty
 
-    # print(i)
-    # i += 1
-
-
-
